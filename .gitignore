@@ -6,3 +6,6 @@ node_modules
 # CDK asset staging directory
 .cdk.staging
 cdk.out
+# SpecStory explanation file
+.specstory/.what-is-this.md
+.DS_Store
